@@ -1,10 +1,14 @@
 ### Hi there 👋
-I'm a Software Engineer, passionate about learn and use new technologies and solving complex problems, using the most diverse programming languages, mostly using PHP, Java and JS. I'm majoring in Systems for Internet, working as a Full-Stack developer and producing content for my personal website.
+🇬🇧 I'm a **Software Engineer** passionate about building scalable solutions and solving complex problems. **Graduated in Systems for Internet [@UFSM - Brazil](https://www.ufsm.br/)**, I work as a Full-Stack developer, primarily with **PHP (Laravel), Java, Python, and JavaScript**. Currently, I'm diving deep into distributed systems and producing technical content for the community.
+
+🇧🇷 Sou **Engenheiro de Software**, apaixonado por construir soluções escaláveis e resolver problemas complexos. **Graduado em Sistemas para Internet na [@UFSM - Brasil](https://www.ufsm.br/)**, atuo como desenvolvedor Full-Stack, com foco principal em **PHP (Laravel), Java, Python e JavaScript**. Atualmente, estou me aprofundando em sistemas distribuídos e produzindo conteúdo técnico para a comunidade.
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ___
 ### Status :
-Full-stack Developer.  
-Systems for Internet student [@UFSM - Brazil](https://www.ufsm.br/)
+Full-stack Developer at Conplan.  
+Graduated in Systems for Internet [@UFSM - Brazil](https://www.ufsm.br/)
 ___
 ### Dev Profiles :
 - [LeetCode](https://leetcode.com/williamtrindade/)
@@ -26,4 +30,3 @@ ___
 - [Prepara Cursos Courses](https://github.com/williamtrindade?tab=repositories&q=prepara-cursos-&type=&language=&sort=)
 - [Talks Projects](https://github.com/williamtrindade?tab=repositories&q=talk-&type=&language=&sort=)
 ___
-
