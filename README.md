@@ -1,32 +1,30 @@
-### Hi there 👋
-🇬🇧 I'm a **Software Engineer** passionate about building scalable solutions and solving complex problems. **Graduated in Systems for Internet [@UFSM - Brazil](https://www.ufsm.br/)**, I work as a Full-Stack developer, primarily with **PHP (Laravel), Java, Python, and JavaScript**. Currently, I'm diving deep into distributed systems and producing technical content for the community.
+# Hi there 👋
 
-🇧🇷 Sou **Engenheiro de Software**, apaixonado por construir soluções escaláveis e resolver problemas complexos. **Graduado em Sistemas para Internet na [@UFSM - Brasil](https://www.ufsm.br/)**, atuo como desenvolvedor Full-Stack, com foco principal em **PHP (Laravel), Java, Python e JavaScript**. Atualmente, estou me aprofundando em sistemas distribuídos e produzindo conteúdo técnico para a comunidade.
+🇬🇧 I'm a Software Engineer focused on building scalable architectures and solving complex, business-oriented problems. Graduated in Systems for Internet from UFSM - Federal University of Santa Maria – Brazil, I embrace a framework-agnostic approach, prioritizing solid Software Engineering principles, Architecture (Clean Architecture, SOLID), and efficient REST API design.
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+I currently explore the intersection of technical decisions and product impact (Business Engineering), delving into system design, distributed systems, and high scalability. I share my journey, solutions, and technical content focused on building robust software (regardless of the technology stack) on my blog:
 
-___
-### Status :
-Full-stack Developer at Conplan.  
-Graduated in Systems for Internet [@UFSM - Brazil](https://www.ufsm.br/)
-___
-### Dev Profiles :
-- [LeetCode](https://leetcode.com/williamtrindade/)
-- [Project Euler](https://projecteuler.net/progress=williamtrindade)
-- [TopCoder](https://www.topcoder.com/members/williamtrindade)
-- [CodeForces](https://codeforces.com/profile/williamtrindade)
-- [beecrowd](https://www.beecrowd.com.br/judge/pt/profile/252375)
-- [HackerRank](https://www.hackerrank.com/williamtrindade?hr_r=1)
-- [CodinGame](https://www.codingame.com/profile/a04c0575236209e54af513d73195e9a54605392)
-- [HackerEarth](https://www.hackerearth.com/@williamtrindade777)
-___
-### My Projects Categories :
-- [Side Projects](https://github.com/williamtrindade?tab=repositories&q=side-project&type=&language=&sort=)
-- [College Projects](https://github.com/williamtrindade?tab=repositories&q=college-project-&type=&language=&sort=)
-- [College Materials](https://github.com/williamtrindade?tab=repositories&q=discipline+codes+from+UFSM+systems+for+internet+course&type=&language=&sort=)
-- [Book codes](https://github.com/williamtrindade?tab=repositories&q=%23book&type=&language=&sort=)  
-- [Google Cloud Courses](https://github.com/williamtrindade?tab=repositories&q=google-cloud-course&type=&language=&sort=)
-- [Rocketseat Courses](https://github.com/williamtrindade?tab=repositories&q=rocketseat-&type=&language=&sort=)
-- [Prepara Cursos Courses](https://github.com/williamtrindade?tab=repositories&q=prepara-cursos-&type=&language=&sort=)
-- [Talks Projects](https://github.com/williamtrindade?tab=repositories&q=talk-&type=&language=&sort=)
-___
+✍️ **Read my articles on Medium:** [https://medium.com/@williamtrindadedev](https://medium.com/@williamtrindadedev)
+
+---
+
+🇧🇷 Sou Engenheiro de Software focado em construir arquiteturas escaláveis e resolver problemas complexos orientados a negócios. Graduado em Sistemas para Internet pela UFSM - Universidade Federal de Santa Maria, atuo com uma abordagem agnóstica de frameworks, priorizando sólidos princípios de Engenharia de Software, Arquitetura (Clean Architecture, SOLID) e o design eficiente de APIs REST.
+
+Atualmente, exploro a intersecção entre decisões técnicas e impacto no produto (Business Engineering), mergulhando em System Design, sistemas distribuídos e alta escalabilidade. Compartilho minha jornada, soluções e conteúdo técnico focado na construção de softwares robustos (independentemente da stack tecnológica) no meu blog:
+
+✍️ **Leia meus artigos no Medium:** [https://medium.com/@williamtrindadedev](https://medium.com/@williamtrindadedev)
+
+---
+
+#### Status
+* 💼 **Full-stack Developer** at Conplan.
+* 🎓 **Graduated in Systems for Internet** at UFSM – Universidade Federal de Santa Maria.
+
+#### Links
+* ✍️ **Articles:** [Medium](https://medium.com/@williamtrindadedev)  
+* 💻 **Data Structures & Algorithms:** [LeetCode](https://leetcode.com/williamtrindade/) | [HackerRank](https://www.hackerrank.com/williamtrindade?hr_r=1)
+
+#### Featured Work
+* **[Clean Architecture REST API](https://github.com/williamtrindade/clean-architecture-laravel-api):** Laravel API refactoring demonstrating SOLID principles, decoupled layers, and scalable software design.
+* **[DSA Study Notes](https://williamtrindade.github.io/dsa/):** My personal library of Data Structures and Algorithms implementations and technical interview patterns.
+* **[Presentations & Tech Talks](https://github.com/williamtrindade/presentations/tree/main):** Materials and code from my presentations on backend development and system design, available on my [YouTube Channel](https://www.youtube.com/@williamtrindadedev).
