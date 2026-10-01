@@ -26,5 +26,4 @@ Atualmente, exploro a intersecção entre decisões técnicas e impacto no produ
 
 #### Featured Work
 * **[Clean Architecture REST API](https://github.com/williamtrindade/clean-architecture-laravel-api):** Laravel API refactoring demonstrating SOLID principles, decoupled layers, and scalable software design.
-* **[DSA Study Notes](https://williamtrindade.github.io/dsa/):** My personal library of Data Structures and Algorithms implementations and technical interview patterns.
-* **[Presentations & Tech Talks](https://github.com/williamtrindade/presentations/tree/main):** Materials and code from my presentations on backend development and system design, available on my [YouTube Channel](https://www.youtube.com/@williamtrindadedev).
+
